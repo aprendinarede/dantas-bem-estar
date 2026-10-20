@@ -1,0 +1,1 @@
+Aplicativo móvel para suporte terapêutico entre sessões baseado em evidências e Terapia Cognitivo-Comportamental (TCC), permitindo que pacientes registrem emoções, pensamentos e bem-estar de forma acolhedora e acessem conteúdos prescritos, enquanto o psicólogo acompanha tendências e tópicos prioritários para a sessão presencial ou online.
