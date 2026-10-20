@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano abrangente para o aplicativo de acompanhamento psicológico entre sessões (TCC), detalhando a experiência do paciente (registro rápido de 1 minuto, aprofundamento opcional, biblioteca psicoeducativa, resumo semanal descritivo e controles de privacidade) e a área do psicólogo (gestão de pacientes por convite, visualização de registros autorizados, destaques para a próxima sessão e atribuição de atividades), com arquitetura em Jetpack Compose, Room e diretrizes da LGPD/CFP.",
+  "updatedAt":  "2026-10-20T17:24:53.913417824Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
